@@ -1,0 +1,309 @@
+**** *speaker=P1_male
+Like this.
+**** *speaker=P2_female
+Bye, it showed up.
+**** *speaker=P1_male
+Exactly at the very end, right? I only came back when I saw “requirements.” I just did it. I read the others just to check. That’s exactly it. Once we have a hole in the requirements, we implement and test, then a release comes out—but there was a hole in the requirement.
+Your test will have a hole, your entire work will have a hole, and you’ll need to go back and rebuild everything, rebuild your past. In the end, the project may seem solid, but all that solidity was built on rework. So, without a doubt, I only went back to “requirements” because today it’s undoubtedly the number one cause of all other problems.
+**** *speaker=P2_female
+That’s already a creativity criterion, right?
+**** *speaker=P2_female
+A cascade effect—make one mistake, and the whole sequence follows.
+**** *speaker=P3_female
+Yes.
+**** *speaker=P4_male
+Yes.
+**** *speaker=P3_female
+Yes.
+**** *speaker=P1_male
+Yes, it is.
+**** *speaker=P1_male
+T‑shirt with challenges.
+**** *speaker=P2_female
+No, it’s not showing up here.
+**** *speaker=P2_female
+I fell asleep. Not yet.
+**** *speaker=P1_male
+If you access via chat, you can see the answers there.
+**** *speaker=P1_male
+Exactly.
+**** *speaker=P5_male
+Can I? I’d place my bet on “planning” for sure.
+**** *speaker=P1_male
+It’s the little flame emoji.
+**** *speaker=P4_male
+I think it’s also very aligned. It’s hard to define the criticality because everything is so coupled that…
+**** *speaker=P4_male
+If you make a mistake in one area, everything is gone.
+**** *speaker=P4_male
+Right?
+**** *speaker=P2_female
+I think this issue with requirement analysis happens a lot because of the uncertainty in the projects we work on at Virtus. There’s a lot of research involved in contexts we don’t fully understand yet. So the requirement isn’t collected in the best or most complete way.
+As activities progress and discoveries happen, requirements change, and then we have to rework test cases, automated tests, environments, and so on.
+**** *speaker=P5_male
+I’ll add to that.
+**** *speaker=P4_male
+And it’s not just today. I think in over 10 years in the field, we used to do annual retrospectives asking, "how can we improve?" The point always raised was: requirements, requirements, requirements.
+**** *speaker=P5_male
+I don't even know what else to add. I think it’s beating a dead horse, but in terms of execution, what’s the problem?
+It’s getting a test case that’s unintelligible. A test case should be written as if you’re thinking 5 years ahead. There were many cases where we translated everything to English, but people used Google Translate.
+
+In the Google Translate context, it was correct, but in the context of the project localization, it made no sense. When I arrived at the project—I wasn’t initially involved—I saw some test and had to stop, ask questions, figure it out.
+I think AI could help fix this. I hope one day it does. Maybe it will. But the execution part is even more critical.
+**** *speaker=P3_female
+It recognized it but didn’t forgive.
+**** *speaker=P5_male
+You try to talk to whoever wrote it, but after a while it gets tiring. You have to be creative.
+**** *speaker=P4_male
+Experience.
+**** *speaker=P3_female
+Seems like my tool again, right? Trying to refine it until it matures…
+Polishing it to release the process. But that’s it. You follow the process—it’s not production-ready.
+**** *speaker=P2_female
+In our project?
+**** *speaker=P2_female
+In our project, the user stories are refined until the acceptance criteria cover everything.
+**** *speaker=P4_male
+So that means…
+**** *speaker=P2_female
+Everything that needs to be done, whether requirements, interface, communication with third parties. Only then do we do the planning and add it to the sprint. But we’ve had cases where we had to do what people said: go after the writer and get things clarified.
+It has to be done beforehand. That’s our current practice.
+**** *speaker=P4_male
+Nickname?
+**** *speaker=P4_male
+Depends, depends.
+**** *speaker=P2_female
+In my reality, it’s done beforehand.
+**** *speaker=P1_male
+It’s the little flame emoji.
+**** *speaker=P4_male
+There are both flows, right? Sometimes we define a feature and later validate it with the client to understand their real need.
+**** *speaker=P5_male
+Projects, projects.
+**** *speaker=P4_male
+Or we compare it with existing market solutions or validate based on experience.
+**** *speaker=P3_female
+I think it depends on the time the project gives you for refinement. I’ve been on projects where in the last sprint there was no time for refinement. So, you have to make time to at least define a happy path to create a test case.
+**** *speaker=P3_female
+Like it or not, that refinement has to be done at some point.
+**** *speaker=P1_male
+In Virtus projects, I’ve been in ones with a very well-defined requirement flow. The document would be written and then passed to the QA team for review to find requirement bugs before the sprint started. That was like the gold standard.
+**** *speaker=P1_male
+I haven’t seen that again, but I’ve worked on projects where we did refinement of the next sprint in the current sprint. We’d meet, refine it together, and by planning time we already had solid requirements.
+Sometimes we’d still find a hole during planning, but it was mostly fine.
+
+I’ve also been in projects where the feature was generally defined—field limitations and such—but the component details were left for the sprint due to uncertainties. We’d have vague items like “Sign up,” and if no one clarified, the sprint wouldn’t move forward unless someone from the top said, “Proceed like that.”
+In the projects I’m in now, QAs work closely with devs and push hard for refinement. We get involved in requirements and try to identify issues early, which is working. Most of our requirements are solid before development starts.
+
+Sometimes we mark something as a PoC if a tech hasn’t been decided yet, just to test options. But I haven’t seen anything vague like a simple “Sign up” in a long time. Everything has acceptance criteria and details.
+**** *speaker=P4_male
+Sometimes the signs aren’t enough. Sometimes it's all outside the official documentation—some managers keep specs in Word docs, outside the tool. Or things are implied during meetings and never transcribed elsewhere, so test cases end up being the only written documentation.
+**** *speaker=P1_male
+Just me hearing this?
+**** *speaker=P3_female
+Right.
+**** *speaker=P5_male
+Quick question, Isabela—is that user language Jupyter Python?
+**** *speaker=P5_male
+I noticed the AI extension and found it really cool for Ternary.
+**** *speaker=P5_male
+Nice.
+**** *speaker=P5_male
+Got it.
+**** *speaker=P2_female
+I skimmed through it.
+**** *speaker=P3_female
+I ran it too.
+**** *speaker=P4_male
+Ran the script here.
+**** *speaker=P5_male
+I looked at the output and thought it was pretty good—it’s something we need.
+**** *speaker=P4_male
+Right?
+**** *speaker=P2_female
+It removes part of the workload. Could be Gherkin-like.
+**** *speaker=P5_male
+I think this technique tackles the issue I mentioned—unintelligible test cases. It helps accelerate execution. I think it’s real enough that I could apply it to a project at Virtus next week or the week after.
+**** *speaker=P2_female
+I think it takes some work, but it’s important. It’d be great if we had an AI that helped us analyze incoming requirements and compare with what we already have.
+Often, I have to redo test cases or update them to ensure full coverage and avoid redundancy. That takes time.
+I go over what we already have and identify what needs to be adjusted before I start writing new tests. If we could do this analysis through prompts—sending the old and new test cases and getting back that analysis—it would save a lot of time.
+
+And it could also automatically populate our test tool, Turmalina, instead of manually copy-pasting.
+We’d save time and focus on things automation can’t handle.
+**** *speaker=P1_male
+A lot of time is spent just typing tests—preconditions, descriptions, steps—so that anyone can understand it. If it were just for me, I could use shorthand or magic syllables. But it needs to be very readable.
+Piada gave the “5-year-old” example—it should be that clear. And writing like that takes a lot of work, even for a senior QA.
+There’s a limit to typing speed. When they contacted me about features for Turmalina, the top feature I suggested was the ability to duplicate tests.
+**** *speaker=P3_female
+Right.
+**** *speaker=P1_male
+That would help a lot with reducing typing. Preconditions, inverse preconditions—those can be reused.
+**** *speaker=P5_male
+Adding to what Victor said, we already export tests, tweak them in VSCode, and re-import them to Turmalina.
+There’s even a script that cleans up old tags, because you can’t import with legacy labels.
+**** *speaker=P5_male
+I’ll take a look at that script. I see it like—it's a bit of a pain to get started on this, but once you start fixing things and improving, it becomes a continuous improvement cycle.
+**** *speaker=P1_male
+Right.
+Just to quickly wrap up:
+Another point we discussed—maybe even in the first polishing session—was that the most critical part of all is the definition of requirements. Clearly, the quality of your prompt depends on a well-defined requirement.
+
+So, I think that before we try to fix our typing time, the main problem that needs to be solved is the quality of the requirements—only then can we think about crafting quality prompts and truly integrating that into our workflow.
+**** *speaker=P1_male
+Because if we have a prompt generating tests, but we still need to do Ctrl+C, Ctrl+V from the prompt into Turmalina to keep the tool running…
+Well, the time spent copy-pasting gets very close to the time spent typing manually. So that’s another step we’ll need to investigate: how to preserve our usage standards for Turmalina.
+That will be another phase to address. That’s it. You can go ahead, Bia.
+**** *speaker=P3_female
+My experience was similar, but with a twist. Sorry for the background noise—they’re doing renovations downstairs.
+**** *speaker=P1_male
+No worries, it’s fine.
+**** *speaker=P3_female
+I participated in a project at Virtus early on where my job was to turn awful text into test cases using real language. But it was just basic narrative, like:
+“There’s a system with these fields and this button. I want to log in using these fields and that button.”
+
+She’d write that, and AI would try to break it into standard words for UI elements, or convert it into BDD. It was really complex back then.
+
+Today, looking at how easy it is with AI—it’s surreal. That would really help us now.
+**** *speaker=P3_female
+And this can be dangerous. Nowadays, we already use Turmalina a bit like this—copying and pasting from similar test cases—and sometimes something slips by.
+**** *speaker=P3_female
+Something that needed adjusting gets overlooked. I’ve seen scripts that are “ready,” with just copy and paste needed. Having a tool like this would be a huge productivity boost for our day-to-day work and our projects.
+**** *speaker=P3_female
+Right?
+**** *speaker=P5_male
+It could even become like a standard…
+For example, you’re reviewing a test case and someone says: “No, but I wrote it correctly.”
+
+And you say: “I don’t know about that… let’s check with the AI prompt and see what it generates.”
+Maybe your version is wrong. Maybe their version is wrong. The AI might settle the matter more reliably than a human.
+
+Six months from now, if we run this same workshop again, we might have everything well-written and resolved.
+I think that would end a lot of the back-and-forth.
+**** *speaker=P2_female
+I think it would help in cases where people are writing in English but thinking in Portuguese.
+That happens a lot in my project—the team doesn’t have strong English, so they write awkward sentences. Later, someone else joins the team and can’t understand what's going on because of poor grammar or structure.
+
+So this would help maintain consistency and standardization.
+**** *speaker=P3_female
+Yeah, I think the issue is really one of writing style and clarity. The AI can help with that too.
+**** *speaker=P1_male
+Right. I don’t even have anything to add—it would just be repeating everything we said about the value of standardized writing and using AI as the writing rule.
+If we look at a CPF, for example, there are recommendations, but real-world application comes with experience.
+And if there’s a tool you can trust, that’s already well-trained, then it makes sense to use it as your final reference—to finish an implementation or even to auto-generate it.
+
+Standardization has huge benefits, no doubt.
+**** *speaker=P4_male
+I agree with everyone.
+But I’m still cautious about generating a test case and just copy-pasting it in, like the others said.
+Some people will just paste it and won’t check it. Then you reach execution and realize it doesn’t make sense—and now you have to maintain it.
+**** *speaker=P2_female
+We don’t have a formal standard or review process—it varies by team. It wouldn’t hurt for us to define one.
+Then we could even use that as input for tools like this.
+**** *speaker=P2_female
+We could say: “This is the naming pattern we’ll use,” and that would be great.
+**** *speaker=P4_male
+Some projects do try to organize and adopt a standard at the start. Even the industry uses certain conventions, like writing in first or third person, using Gherkin, etc.
+But it really depends on the project and how the team is organized.
+
+Sometimes, during a review, these things get missed. Or someone new joins the project without proper onboarding and doesn't follow the conventions.
+
+From my point of view, I don’t see this affecting the final result—it's more a matter of test clarity and maintenance.
+Whether it’s written in first or third person, or whether it uses Gherkin or not, doesn’t matter much. What matters is the test's clarity and ease of maintenance.
+**** *speaker=P1_male
+Standardization would also help researchers during training, right?
+If everything were standardized, researchers would thank us for the quality of the test data.
+**** *speaker=P4_male
+Exactly.
+**** *speaker=P4_male
+And it’s not just about the researchers.
+The researchers talk to Sérgio, and then Sérgio puts pressure on the managers to enforce standardization. Please help us, right?
+
+Bottom-up pressure never works. It has to come top-down.
+**** *speaker=P1_male
+The tests with the biggest documentation load were probably the Epson ones—Felipe led the QA team on that.
+
+We spent a lot of time writing and pushing for high-quality test writing there.
+Those projects are mostly finished now. If anyone wants to look at their test implementations, I think they follow a good standard and could be helpful.
+**** *speaker=P4_male
+I believe most of them used Gherkin, right?
+**** *speaker=P1_male
+Yes, yes—that was the rule.
+**** *speaker=P4_male
+It’s part of the standardization we adopted for the QA team—it makes the tests much more readable.
+**** *speaker=P1_male
+That applies to bugs too—not just test cases. Look at the bug reports, expected results—they all follow a Gherkin-like standard.
+**** *speaker=P4_male
+Exactly.
+**** *speaker=P3_female
+Right.
+**** *speaker=P4_male
+We base our feedback on familiarity and knowledge, but thinking about the bigger picture—what’s easy for me might be hard for a junior tester.
+Also, just to note—everyone here is pretty senior. There’s no junior tester here. Everyone’s got a lot of experience.
+**** *speaker=P2_female
+That’s why I think this tool could also be great for training—for onboarding new people.
+We could give them a challenge, check the result, and compare it with the AI output.
+**** *speaker=P4_male
+Regarding BDD—as in the video you shared from Isabela’s team—I agree with the speaker.
+
+Very few people actually apply BDD in projects. It’s complex, especially in dynamic environments like Victor’s, where things change constantly. Maintaining BDD is very difficult.
+
+So, we tried to extract the best from BDD—the language and structure—for specification. That’s what we mostly do in Epson projects.
+
+There’s a lot of debate in the industry about BDD and especially about test automation.
+
+People say: it doesn’t make sense to automate tests using BDD because we already have tests written in a traditional way, and now we’d need to rewrite them for automation. That’s extra work.
+
+So, people don’t even start BDD properly. They skip the initial requirement step.
+Ideally, the requirement would already be specified with acceptance criteria in BDD format.
+**** *speaker=P1_male
+BDD only works if everyone is aligned on using it—if the whole project runs on BDD.
+Trying to apply BDD halfway through won’t work. It’s not real BDD—it’s just Gherkin. I’ve never seen a successful project using BDD. But I also haven’t seen one fail—most don’t even get off the ground because it’s too hard to implement.
+**** *speaker=P2_female
+I worked on one where the client was deeply involved and dictated exactly what tools we had to use, including the test automation tool.
+
+They required high-level test specs using BDD, and the automation had to match exactly what was written.
+So we used BDD for writing the tests, then migrated to Robot Framework for execution. But that was because the client explicitly asked for it.
+
+Normally, BDD is used in the test specs, but the automation ends up being done in a lower-level language.
+In this case, a tool like this would help maintain that alignment.
+**** *speaker=P4_male
+I thought there was going to be a twist.
+**** *speaker=P3_female
+I thought I was crooked.
+**** *speaker=P1_male
+I was waiting for the punchline.
+**** *speaker=P5_male
+To answer the question—I’d love to see people listing whether they think this is easy or hard.
+**** *speaker=P1_male
+In terms of ease of use, I’d rate it a 5—it’s really simple to learn.
+**** *speaker=P5_male
+I’ve researched frameworks for using AI in testing. They were Python-based too, but I noticed a difference depending on whether you’re using Jupyter or plain Python.
+There’s a difference between .py and .ipynb file extensions. I’m still a bit unsure about that.
+**** *speaker=P5_male
+Got it.
+**** *speaker=P5_male
+Exactly—that play button makes execution easier.
+**** *speaker=P5_male
+So in my project, I started working in Jupyter, then realized I wanted to move everything into the Git repo for the backend.
+Now I just use VSCode for that. But yeah—what you explained matches my experience. Thanks for the clarification.
+**** *speaker=P4_male
+Later, we could explore ways to avoid copying and pasting—maybe find a way to import the data model directly into Turmalina.
+
+Lilia, is the import in JSON or something else?
+**** *speaker=P1_male
+JSON.
+**** *speaker=P4_male
+I don’t quite remember—I’ll play around with the prompt and see if we can enrich it a bit, maybe use pre-prompts like “as a test analyst” or “as a QA engineer,” and ask it to use boundary value analysis or equivalence classes.
+That might be something worth exploring further.
+**** *speaker=P4_male
+Yeah, that’s it.
+**** *speaker=P1_male
+So in the end, I don’t think the tool has limitations.
+The only limitation is the input we give it—meaning, the quality of the requirements.
+If the requirements are solid, they’ll guide the prompt properly.
+
+So, the first step is validating the prompt’s usefulness. Then, we can think about how to integrate it into our tool (Turmalina) and optimize our workflow.
+
+The quality of the requirement is critical—whether or not we’re using AI for test generation.
+That always needs to be guaranteed.
